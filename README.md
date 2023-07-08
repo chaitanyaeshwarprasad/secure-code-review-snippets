@@ -1,4 +1,4 @@
-🔒 Secure Code Review Snippets 🔒
+🔒 Secure Code Review Snippets 🔒 
 
 Welcome to the secure code review snippets for Secure Code Review Snippets! This repository aims to provide developers with valuable examples and guidance for conducting secure code reviews and writing secure code.
 
